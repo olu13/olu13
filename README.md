@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olu
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on dvelopment projects
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me: sholaoyedepo@yahoo.com
 
 <!---
